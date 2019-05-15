@@ -1,3 +1,4 @@
+/* todo app store module */
 const storage = {
     fetch() {
         const arr = [];
